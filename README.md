@@ -1,9 +1,21 @@
-Hello, friend.
+<h1 align="center"> Welcome to my GitHub profile! 👋 </h1>
 
-I'am ar4itekYT / Artyom Kutyryev / Артём Кутырев.
-I from Russia.
+# 📖 My Contacts
+- E-mail: ar4itekmail@gmail.com
+- Discord: Арчи#9003
+- Steam: https://steamcommunity.com/id/ar4itek
+- VK: https://vk.com/ar4itekprogramm
+- VK-group: https://vk.com/ar4itekdev
 
-I Java and Python programmer.
-My english is very-very bad.
+##### Primary Languages/Instruments:
+- Java
+- Python
 
-GOOD LUCK!
+# 💼 Projects
+- [SQLAgent](https://github.com/ar4itekYT/sqlagent)
+  - Head Developer
+
+-----------------------------------------------------
+<p align="center">
+ar4itek.dev © 2021 - полное или частичное копирование запрещено.
+</p>
