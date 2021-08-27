@@ -14,6 +14,10 @@
 # 💼 Projects
 - [SQLAgent](https://github.com/ar4itekYT/sqlagent)
   - Head Developer
+- [New Generation Config CS:GO](https://github.com/ar4itekYT/new-generation-config-cs-go)
+  - Head Developer 
+- [New Generation Config Demo CS:GO](https://github.com/ar4itekYT/demo-new-generation-config-cs-go)
+  - Head Developer 
 
 -----------------------------------------------------
 <p align="center">
