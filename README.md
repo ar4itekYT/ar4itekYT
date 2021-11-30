@@ -7,21 +7,17 @@
 - VK: https://vk.com/ar4itekprogramm
 - VK-group: https://vk.com/ar4itekdev
 
-##### Primary Languages/Instruments:
+#### 🎒 Primary Languages/Instruments
 - Java
 - Python
 - Lua
 - SQL
 
-# 💼 Projects
+# 💼 My Pet Projects
 - [SQLAgent](https://github.com/ar4itekYT/sqlagent)
-  - Head Developer
 - [New Generation Config CS:GO](https://github.com/ar4itekYT/new-generation-config-cs-go)
-  - Head Developer 
 - [New Generation Config Demo CS:GO](https://github.com/ar4itekYT/demo-new-generation-config-cs-go)
-  - Head Developer 
 - [Left Hand in GMOD, addon](https://github.com/ar4itekYT/left-hand-gmod)
-  - Head Developer
 
 -----------------------------------------------------
 <p align="center">
