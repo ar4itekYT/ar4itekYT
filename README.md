@@ -1,6 +1,11 @@
-<h1 align="center"> Welcome to my GitHub profile! 👋 </h1>
+![shopka](https://user-images.githubusercontent.com/59157878/144428807-211a0848-19ee-4dc2-8545-fa245fa1d4bb.png)
 
-# 📖 My Contacts
+<h1 align="center"> Hi, guys 💕 </h1>
+
+# 😺 About me
+Programmer, love tea, gamer (hl3,gmod,minecraft,prototype3), VODKA PIVO BALALIKA
+
+# 📖 Info
 - E-mail: ar4itekmail@gmail.com
 - Discord: Арчи#9003
 - Steam: https://steamcommunity.com/id/ar4itek
@@ -13,7 +18,7 @@
 - Lua
 - SQL
 
-# 💼 My Pet Projects
+# 📁 My Pet Projects
 - [SQLAgent](https://github.com/ar4itekYT/sqlagent)
 - [New Generation Config CS:GO](https://github.com/ar4itekYT/new-generation-config-cs-go)
 - [New Generation Config Demo CS:GO](https://github.com/ar4itekYT/demo-new-generation-config-cs-go)
