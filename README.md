@@ -22,9 +22,7 @@ Programmer, love tea, gamer (hl3,gmod,minecraft,prototype3), VODKA PIVO BALALIKA
 
 # 📁 My Pet Projects
 - MOD4
-- [New Generation Config CS:GO](https://github.com/ar4itekYT/new-generation-config-cs-go)
-- [New Generation Config Demo CS:GO](https://github.com/ar4itekYT/demo-new-generation-config-cs-go)
-- [Left Hand in GMOD, addon](https://github.com/ar4itekYT/left-hand-gmod)
+- [Full Finder](https://github.com/ar4itekYT/full-finder)
 
 -----------------------------------------------------
 <p align="center">
