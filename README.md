@@ -20,9 +20,8 @@ Programmer, love tea, gamer (hl3,gmod,minecraft,prototype3), VODKA PIVO BALALIKA
 - Lua
 - SQL
 
-# 📁 My Pet Projects
-- MOD4
-- [Full Finder](https://github.com/ar4itekYT/full-finder)
+# 📁 Projects
+- [MOD4](https://discord.com/api/oauth2/authorize?client_id=930024067430506526&permissions=8&scope=bot)
 
 -----------------------------------------------------
 <p align="center">
