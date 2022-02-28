@@ -7,10 +7,12 @@ Programmer, love tea, gamer (hl3,gmod,minecraft,prototype3), VODKA PIVO BALALIKA
 
 # 📖 Info
 - E-mail: ar4itekmail@gmail.com
-- Discord: Арчи#9003
 - Steam: https://steamcommunity.com/id/ar4itek
 - VK: https://vk.com/ar4itekprogramm
 - VK-group: https://vk.com/ar4itekdev
+<a href="https://discord.com/users/763418827966251049">
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/763418827966251049.png" />
+</a>
 
 ## 📍  MY SITE: http://ar4itek.ru
 
