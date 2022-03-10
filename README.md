@@ -23,7 +23,7 @@ Programmer, love tea, gamer (hl3,gmod,minecraft,prototype3), VODKA PIVO BALALIKA
 - SQL
 
 # 📁 Projects
-- [MOD4](https://discord.com/api/oauth2/authorize?client_id=930024067430506526&permissions=8&scope=bot)
+- [MOD4](http://ar4itek.ru/mod4)
 
 -----------------------------------------------------
 <p align="center">
