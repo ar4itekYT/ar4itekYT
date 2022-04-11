@@ -1,4 +1,4 @@
-![shopka](https://user-images.githubusercontent.com/59157878/144428807-211a0848-19ee-4dc2-8545-fa245fa1d4bb.png)
+![shopka](https://media.discordapp.net/attachments/959549767988437012/962774187569713162/mod4_wtf_1-8.png?width=1248&height=702)
 
 <h1 align="center"> Hi, guys 💕 </h1>
 
